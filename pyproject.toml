@@ -3,7 +3,7 @@ name = "churn-model"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "axarinegor",email = "axarinegor@yandex.ru"}
+    {name = "Sv-ISh",email = "S-Ishbulatova@gmail.ru"}
 ]
 readme = "README.md"
 requires-python = ">=3.10,<4.0"
